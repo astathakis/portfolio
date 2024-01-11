@@ -664,6 +664,7 @@ Connect
 .connect {
   display: grid;
   place-items: center;
+  display: none;
   /* justify-content: center;
   align-items: center; */
 }
